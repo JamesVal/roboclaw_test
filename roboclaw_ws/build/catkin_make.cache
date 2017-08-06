@@ -1,0 +1,2 @@
+roboclaw_ros/roboclaw_node:roboclaw_test_keyboard
+-DCATKIN_DEVEL_PREFIX=/home/amhil/Devel/james_testing/roboclaw_ws/devel -DCMAKE_INSTALL_PREFIX=/home/amhil/Devel/james_testing/roboclaw_ws/install -G Unix Makefiles

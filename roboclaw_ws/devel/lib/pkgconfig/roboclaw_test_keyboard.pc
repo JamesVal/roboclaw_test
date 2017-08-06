@@ -1,0 +1,8 @@
+prefix=/home/amhil/Devel/james_testing/roboclaw_ws/devel
+
+Name: roboclaw_test_keyboard
+Description: Description of roboclaw_test_keyboard
+Version: 0.0.0
+Cflags: -I/home/amhil/Devel/james_testing/roboclaw_ws/src/roboclaw_test_keyboard/include
+Libs: -L/home/amhil/Devel/james_testing/roboclaw_ws/devel/lib 
+Requires: roscpp rospy std_msgs
